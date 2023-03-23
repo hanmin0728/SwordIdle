@@ -1,0 +1,7 @@
+﻿{
+    "swordLevel": 0,
+    "hp": 0,
+    "heart": 0,
+    "gold": 2,
+    "diamond": 0
+}
